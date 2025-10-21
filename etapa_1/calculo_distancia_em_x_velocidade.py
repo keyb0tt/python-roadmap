@@ -20,5 +20,4 @@ while distancia_km >= velocidade_km_s:
     tempo_segundos += 1
     distancia_km -= velocidade_km_s
 
-
 print(f'\nO veículo irá percorrer o trajeto em {tempo_horas}h {tempo_minutos}m {tempo_segundos}s\n')
