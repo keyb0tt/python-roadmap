@@ -1,0 +1,26 @@
+🔹 Etapa 1 – Fundamentos: Variáveis e Entrada/Saída
+
+Conceitos equivalentes: scanf, printf, tipos de dados, operações básicas.
+Foco: sintaxe Python, tipos dinâmicos, input() e print().
+
+10 Exercícios Fáceis
+
+1Leia um nome e mostre uma mensagem de boas-vindas.
+
+2Leia dois números e mostre a soma.
+
+3Leia três números e calcule a média.
+
+4Peça um número e mostre o dobro, triplo e raiz quadrada.
+
+5Converta metros em centímetros e milímetros.
+
+6Peça a idade e mostre quantos dias de vida aproximadamente tem.
+
+7Leia o preço de um produto e mostre com 10% de desconto.
+
+8Converta temperatura de Celsius para Fahrenheit.
+
+9Calcule o tempo que um carro leva para percorrer uma distância a certa velocidade.
+
+10Leia o salário e mostre quanto ganha por hora (considerando 160h/mês).
