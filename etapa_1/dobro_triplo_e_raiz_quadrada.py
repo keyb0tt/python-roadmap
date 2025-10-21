@@ -1,0 +1,1 @@
+# Peça um número e mostre o dobro, triplo e raiz quadrada.
