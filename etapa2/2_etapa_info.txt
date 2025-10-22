@@ -1,0 +1,26 @@
+🔹 Etapa 2 – Estruturas Condicionais (if, elif, else)
+
+Conceitos equivalentes: if, else if, switch.
+Foco: comparações, operadores lógicos, estrutura aninhada.
+
+10 Exercícios Fáceis
+
+Verifique se um número é positivo, negativo ou zero.
+
+Determine se um número é par ou ímpar.
+
+Peça a idade e diga se pode votar.
+
+Verifique se três lados podem formar um triângulo.
+
+Calcule o maior entre três números.
+
+Calcule o conceito de nota (A, B, C...) com base em uma média.
+
+Peça a senha e valide o acesso.
+
+Classifique uma pessoa com base na idade (criança, jovem, adulto, idoso).
+
+Calcule o aumento de salário com base em faixas salariais.
+
+Peça dois números e permita escolher a operação (soma, subtração, etc.).
