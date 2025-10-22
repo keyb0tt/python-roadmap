@@ -7,4 +7,4 @@ qnt_horas_mes, qnt_horas_dia = {160, 24}
 salario_dia = salario_mes / (qnt_horas_mes / qnt_horas_dia)
 salario_hora = salario_dia / qnt_horas_dia 
 
-print(f'{salario_hora}')
+print(f'Um salário de R${salario_mes:.2f} por mês trabalhando 160h ao mês rende R${salario_hora:.2f}/h')
