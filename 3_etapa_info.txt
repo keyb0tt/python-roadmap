@@ -1,0 +1,26 @@
+🔹 Etapa 3 – Estruturas de Repetição (for e while)
+
+Conceitos equivalentes: for, while, do while.
+Foco: iteração simples, contadores, acumuladores.
+
+10 Exercícios Fáceis
+
+Mostre os números de 1 a 10.
+
+Mostre a tabuada de um número informado.
+
+Some os números de 1 até N.
+
+Calcule o fatorial de um número.
+
+Conte quantos números pares há entre 1 e 50.
+
+Peça 5 números e mostre o maior.
+
+Peça números até digitar 0 e mostre a soma total.
+
+Conte quantos números positivos foram digitados.
+
+Mostre os múltiplos de 3 até 100.
+
+Simule um caixa eletrônico pedindo saque e mostrando notas necessárias.
