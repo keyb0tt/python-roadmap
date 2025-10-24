@@ -1,4 +1,4 @@
-# Some duas listas elemento a elemento.
+# Leia nomes e mostre em ordem alfabética.
 import os
 os.system('clear')
 
