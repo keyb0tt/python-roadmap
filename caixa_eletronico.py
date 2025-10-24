@@ -12,8 +12,8 @@ qnt_100, qnt_50, qnt_20, qnt_10, qnt_5, qnt_2 = (0, 0, 0, 0, 0, 0)
 if saque_var >= nota_100:
     while True:
         if saque_var >= nota_100:
-            qnt_100 += 1
             saque_var -= nota_100
+            qnt_100 += 1
         else:
             break
 elif saque_var >= nota_50:
@@ -27,7 +27,7 @@ elif saque_var >= nota_20:
     while True:
         if saque_var >= nota_20:
             saque_var -= nota_20
-            qnt_50 += 1
+            qnt_20 += 1
         else:
             break
 elif saque_var >= nota_10:
