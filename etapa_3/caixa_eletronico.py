@@ -6,7 +6,6 @@ saque_valor = int(input('Insira a quantidade a ser sacada: R$'))
 os.system('clear')
 
 saque_var = saque_valor
-
 notas_valores = [100, 50, 20, 10, 5, 2]
 notas_quantidades = [0, 0, 0, 0, 0, 0]
 
@@ -15,7 +14,7 @@ for i in range(len(notas_valores)):
         saque_var -= notas_valores[i]
         notas_quantidades[i] += 1
 
-print(f'~ Quantidade de notas recebidas ~\n\nValor: R${saque_valor}\n')
+print(f'~ Quantidade de notas recebidas ~\n\nValor: R${saque_valor},00\n')
 
 for i in range(len(notas_quantidades)):
     if notas_quantidades[i] > 0:
