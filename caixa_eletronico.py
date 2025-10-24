@@ -16,35 +16,35 @@ if saque_var >= nota_100:
             qnt_100 += 1
         else:
             break
-elif saque_var >= nota_50:
+if saque_var >= nota_50:
     while True:
         if saque_var >= nota_50:
             saque_var -= nota_50
             qnt_50 += 1
         else:
             break
-elif saque_var >= nota_20:
+if saque_var >= nota_20:
     while True:
         if saque_var >= nota_20:
             saque_var -= nota_20
             qnt_20 += 1
         else:
             break
-elif saque_var >= nota_10:
+if saque_var >= nota_10:
     while True:
         if saque_var >= nota_10:
             saque_var -= nota_10
             qnt_10 += 1
         else:
             break
-elif saque_var >= nota_5:
+if saque_var >= nota_5:
     while True:
         if saque_var >= nota_5:
             saque_var -= nota_5
             qnt_5 += 1
         else:
             break
-elif saque_var >= nota_2:
+if saque_var >= nota_2:
     while True:
         if saque_var >= nota_2:
             saque_var -= nota_2
