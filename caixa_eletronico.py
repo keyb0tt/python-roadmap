@@ -12,8 +12,8 @@ qnt_100, qnt_50, qnt_20, qnt_10, qnt_5, qnt_2 = (0, 0, 0, 0, 0, 0)
 if saque_var >= nota_100:
     while True:
         if saque_var >= nota_100:
-            saque_var -= nota_100
             qnt_100 += 1
+            saque_var -= nota_100
         else:
             break
 elif saque_var >= nota_50:
@@ -56,3 +56,7 @@ notas_entregues = [qnt_100, qnt_50, qnt_20, qnt_10, qnt_5, qnt_2]
 notas_ordem = ['R$100,00', 'R$50,00','R$20,00','R$10,00','R$5,00','R$2,00',]
 
 print(f'~ Quantidade de notas recebidas ~\n\nValor: R${saque_valor}\n')
+
+for i in range(6):
+    if notas_entregues[i] > 0:
+        print(f'Notas de {notas_ordem[i]} = {notas_entregues[i]}')
