@@ -1,0 +1,26 @@
+🔹 Etapa 4 – Vetores (Listas em Python)
+
+Conceitos equivalentes: arrays de 1 dimensão em C.
+Foco: listas, índices, iteração, soma e manipulação de elementos.
+
+10 Exercícios Fáceis
+
+Leia 5 números e mostre-os na ordem inversa.
+
+Leia 10 números e mostre a soma total.
+
+Encontre o maior e o menor valor de uma lista.
+
+Conte quantos valores pares há em uma lista.
+
+Calcule a média dos elementos de uma lista.
+
+Leia nomes e mostre em ordem alfabética.
+
+Some duas listas elemento a elemento.
+
+Crie uma lista e remova elementos repetidos.
+
+Peça notas de alunos e mostre a maior e menor nota.
+
+Gere 10 números aleatórios e mostre quantos são pares.
