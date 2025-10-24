@@ -1,3 +1,4 @@
+# Leia 5 números e mostre-os na ordem inversa.
 import os
 os.system('clear')
 
@@ -7,5 +8,8 @@ array_root = []
 for i in range(array_size):
     array_root.append(int(input(f'Insira o {i + 1}° elemento da array: ')))
 
-for array_size in range(0):
-    print(array_root[array_size])
+# for i in range(array_size, 0, -1): 
+#     print(array_root[i - 1])
+
+for element in reversed(array_root):
+    print(element)
