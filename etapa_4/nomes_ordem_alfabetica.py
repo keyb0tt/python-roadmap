@@ -1,3 +1,4 @@
+# Some duas listas elemento a elemento.
 import os
 os.system('clear')
 
