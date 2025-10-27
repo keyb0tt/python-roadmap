@@ -21,6 +21,8 @@ for aluno in range(3):
 
 notas = [*notas_1aluno, *notas_2aluno, *notas_3aluno]
 maior_nota = max(notas)
+menor_nota = min(notas)
 
 print(f'{notas=}')
 print(f'{maior_nota=}')
+print(f'{menor_nota=}')
