@@ -1,0 +1,26 @@
+🔹 Etapa 5 – Matrizes (Listas de Listas)
+
+Conceitos equivalentes: arrays bidimensionais em C.
+Foco: criação, acesso por índices, soma de linhas/colunas.
+
+10 Exercícios Fáceis
+
+Leia uma matriz 3x3 e mostre seus elementos.
+
+Calcule a soma de todos os elementos.
+
+Mostre os elementos da diagonal principal.
+
+Mostre a soma da segunda linha.
+
+Calcule a soma da terceira coluna.
+
+Crie uma matriz identidade 3x3.
+
+Some duas matrizes 2x2.
+
+Multiplique uma matriz por um escalar.
+
+Conte quantos números pares há na matriz.
+
+Mostre a matriz transposta.
