@@ -8,6 +8,7 @@ matriz = np.array([ [1, 2, 3],
                     [7, 8, 9]])
 
 segunda_linha = matriz[1]
+soma_segunda_linha = np.sum(segunda_linha)
 
-print(f'{matriz=}')
-print(f'{segunda_linha=}')
+print(f'{matriz}\n')
+print(f'{soma_segunda_linha}')
